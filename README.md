@@ -4,7 +4,7 @@
 ### Presenter
 Gavin Abercrombie
 
-- [email](gavin.abercrombie@postgrad.manchester.ac.uk)
+- gavin.abercrombie@postgrad.manchester.ac.uk
 - [hompage](https://personalpages.manchester.ac.uk/postgrad/gavin.abercrombie/)
 - [twitter](https://twitter.com/gavin_does_nlp)
 
