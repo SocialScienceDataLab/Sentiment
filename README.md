@@ -5,7 +5,7 @@
 Gavin Abercrombie
 
 - gavin.abercrombie@postgrad.manchester.ac.uk
-- [hompage](https://personalpages.manchester.ac.uk/postgrad/gavin.abercrombie/)
+- [web site](https://personalpages.manchester.ac.uk/postgrad/gavin.abercrombie/)
 - [twitter](https://twitter.com/gavin_does_nlp)
 
 
